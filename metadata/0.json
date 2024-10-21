@@ -1,0 +1,19 @@
+{
+  "name": "AIRUNNER #0",
+  "description": "The AIRUNNER is a futuristic sneaker that merges cutting-edge fashion with blockchain technology, symbolizing both style and innovation in the digital world.",
+  "image": "ipfs://QmQRmUK5GudJoHMgfZ6f1odshYkNVZ6PKRuhh7LKmqU1x7/0.png",
+  "attributes": [
+    {
+      "trait_type": "Design",
+      "value": "Cyber Circuit"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Neon Blue"
+    },
+    {
+      "trait_type": "Technology",
+      "value": "ERC721A + ERC721R"
+    }
+  ]
+}
